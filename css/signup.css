@@ -6,7 +6,9 @@
   border-radius: 5px;
   text-align: center;
 }
-
+body{
+  background-image: url("../images/background.jpg");
+}
 h1 {
   font-size: 30px;
   margin-bottom: 20px;
